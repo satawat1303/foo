@@ -1,13 +1,5 @@
 # foo
-
-## My foo
-* item 1
-* item 2
-
-## My bar
-[Link MD](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ___
-
 ## Edit Error
 
 * git fetch // check client with github
@@ -59,3 +51,6 @@ ___
 * git commit -m "..."
 
 * git push
+___
+## My bar
+[Link MD](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
