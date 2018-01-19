@@ -1,3 +1,8 @@
-* git fetch // เช็คความแตกต่างใน com กับ git
+* git fetch // check client with github
 * git merge // download data มาเช็ค
 * git pull // pull = fetch + merge
+___
+* git checkout -- filenname.txt // undo
+* git reset HEAD .. // discard add
+* git reset --soft "HEAD^" // discard commit
+* git log --oneline // number commit
