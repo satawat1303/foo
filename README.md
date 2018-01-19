@@ -4,7 +4,7 @@ ___
 
 * git fetch // check client with github
 
-* git merge // download data ÁÒàªç¤
+* git merge // download data check
 
 * git pull // pull = fetch + merge
 
