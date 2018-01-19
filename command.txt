@@ -15,3 +15,12 @@ ___
 ## Recovery
 * git reset HEAD test.txt
 * git checkout test.txt
+___
+## ...
+* git add .
+* git stash // hide your update
+* git pull
+* git stash pop // recovery file
+* git add .
+* git commit -m "..."
+* git push
