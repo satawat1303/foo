@@ -1,0 +1,3 @@
+* git fetch // เช็คความแตกต่างใน com กับ git
+* git merge // download data มาเช็ค
+* git pull // pull = fetch + merge
