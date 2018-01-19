@@ -20,13 +20,13 @@ ___
 * กำหนด user name ให้เป็น gobal
 ___
 * git commit -m "frist commit"
-* 
+* บันทึกข้อมูล และ comment ก่อนจะทำการ push
 ___
 * git status
 * ตรวจสอบสถานะ
 ___
 * git remote add origin https://github.com/satawat1303/foo.git
-* 
+* ระบุตำแหน่งที่จส่ง
 ___
 * remote -v
 * แสดงรายชื่อและตามด้วย URL ของ remote repository ด้วย เผื่อจะดึงลงมาใหม่
