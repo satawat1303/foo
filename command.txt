@@ -24,3 +24,24 @@ ___
 * git add .
 * git commit -m "..."
 * git push
+___
+## 26/1/18
+* git clone https://github.com/user/foo.git
+* git branch -a
+* git log
+* git --oneline
+* git -- oneline --decorate --grape
+ (q to exit) 
+* git checkout -b hotfix //create branch
+* git AKB-BNK > hotfix.txt
+* git add.
+* git commit -m "create hotfix.txt"
+* git push -u origin hotfix
+* git checkout master //switch branch
+* git merge --no-ff master
+* git branch -rd hotfix //remove branch
+* git push origin --delete gotfix //remove branch at remote
+___
+* git --tag nametag
+* git push --tag
+* git checkout nametag
