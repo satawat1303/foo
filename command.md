@@ -24,3 +24,9 @@ ___
 * git add .
 * git commit -m "..."
 * git push
+___
+## branch
+* git checkout -b branchname // create & switch branch
+* git push --set-upstream origin mew // push frist orther branch
+* git checkout branchname // switch branch
+* git merge branchname // รวม branch จาก branchname ไป branch ปัจจุบัน
