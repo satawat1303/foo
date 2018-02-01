@@ -19,7 +19,7 @@ ___
 ## ...
 * git add .
 * git stash // hide your update
-* git pull
+* git pull // clone file to com
 * git stash pop // recovery file
 * git add .
 * git commit -m "..."
